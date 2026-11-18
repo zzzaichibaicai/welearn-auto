@@ -1,0 +1,17 @@
+{
+  "cid": "2415",
+  "classid": "797734",
+  "catalog_url": "https://welearn.sflep.com/student/studycourse.aspx?cid={cid}&classid={classid}",
+  "debug_port": 9224,
+  "edge_profile": "",
+  "units": [1, 2, 3, 4],
+  "stay_seconds": 60,
+  "stay_jitter": 8,
+  "skip_record": true,
+  "skip_no_answer": true,
+  "max_sections": 200,
+  "tab_retry": 3,
+  "submit_retry": 3,
+  "verify_by_catalog": true,
+  "result_log": "wl_run_log.json"
+}
