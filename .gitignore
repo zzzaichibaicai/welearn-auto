@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+wl_run_log*.json
+wl_dir.json
+.env
+.venv/
+venv/
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
